@@ -26,7 +26,7 @@ See my work here: https://portfolio-gatsby-kns.web.app/
 
 <p align="center">
 
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kns303&show_icons=true&locale=en&layout=compact" alt="lethamburn" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kns303&show_icons=true&hide_border=true&theme=dark" alt="lethamburn" />
  
 </p>
 
