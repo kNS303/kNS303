@@ -17,3 +17,10 @@ See my work here: https://portfolio-gatsby-kns.web.app/
 
 
 </div>
+
+<h3 align="center">Follow me:</h3>
+<p align="center">
+
+<a href="https://www.linkedin.com/in/alvaro-torres-kns/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alvaro-torres-kns/" height="30" width="40" /></a>
+<a href="https://instagram.com/kns303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kns303" height="30" width="40" /></a>
+</p>
