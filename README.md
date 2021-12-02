@@ -56,7 +56,7 @@ See my work here: https://portfolio-gatsby-kns.web.app/
 
 
 
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kanas&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=kanas&redirect=true) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanas&show_icons=true&locale=en&layout=compact" alt="kanas" />
 
 
 
