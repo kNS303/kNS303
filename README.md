@@ -23,8 +23,6 @@ See my work here: https://portfolio-gatsby-kns.web.app/
 <a href="https://instagram.com/kns303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kns303" height="30" width="40" /></a>
 </p>
 
-<br />
-
 <h3 align="center">Skills:</h3>
 
 <div align="center">
