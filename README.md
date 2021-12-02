@@ -34,4 +34,4 @@ See my work here: https://portfolio-gatsby-kns.web.app/
 <br />
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=lethamburn&label=Profile%20views&color=0e75b6&style=flat" alt="kns303" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kns303&label=Profile%20views&color=0e75b6&style=flat" alt="kns303" /> </p>
