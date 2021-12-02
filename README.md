@@ -15,8 +15,6 @@ See my work here: https://portfolio-gatsby-kns.web.app/
 
 📫 Contact me: kanas89@gmail.com
 
- <br />
-
 </div>
 
 <h3 align="center">Follow me:</h3>
