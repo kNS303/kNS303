@@ -25,8 +25,10 @@ See my work here: https://portfolio-gatsby-kns.web.app/
 </p>
 
 <p align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kns303&layout=compact&theme=dark&hide_border=true)
- </p>
+
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kns303&show_icons=true&locale=en&layout=compact" alt="lethamburn" />
+ 
+</p>
 
 
 
